@@ -4,18 +4,18 @@ timesheet
 I got tired of keeping track of my time by hand so I made this. This is
 probably only useful to me but I'm putting it up here because open source.
 
-####Dependencies
+###Dependencies
 
 The module requires `pandas` because it makes my life easier.
 
-####Install
+###Install
 
-1) `git clone` the repo or download the zip file
-2) `pip install -e /path/to/repo`
+1. `git clone` the repo or download the zip file
+2. `pip install -e /path/to/repo`
 
 This will install the module with a command-line hook.
 
-####Usage
+###Usage
 
 `timesheet start TASK1`
 

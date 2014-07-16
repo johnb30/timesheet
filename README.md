@@ -11,9 +11,10 @@ The module requires `pandas` because it makes my life easier.
 ###Install
 
 1. `git clone` the repo or download the zip file
-2. `pip install -e /path/to/repo`
+2. `pip install /path/to/repo`
 
-This will install the module with a command-line hook.
+This will install the module with a command-line hook. The hook works within a
+virtual environment for me. YMMV.
 
 ###Usage
 
